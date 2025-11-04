@@ -2,7 +2,7 @@
 
 import priorityqueue.MaxHeap;
 
-public class hello {
+public class priorityQueue {
     public static void main(String[] args) {
         
     MaxHeap<Integer> heap = new MaxHeap<>();
