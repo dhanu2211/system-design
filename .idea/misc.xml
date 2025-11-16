@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/Singleton/pom.xml" />
         <option value="$PROJECT_DIR$/FactoryPattren/pom.xml" />
         <option value="$PROJECT_DIR$/builder/pom.xml" />
+        <option value="$PROJECT_DIR$/Strategy/pom.xml" />
       </list>
     </option>
   </component>
